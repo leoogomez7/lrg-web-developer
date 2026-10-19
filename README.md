@@ -2,7 +2,7 @@
 
 **LRG Web Developer** es una plataforma moderna dedicada al diseño y desarrollo web profesional. El proyecto expone un portafolio de servicios, metodologías de trabajo digitales y soluciones optimizadas para una experiencia de usuario (UX) ágil, interactiva y de alto rendimiento.
 
-🌐 **Sitio Web Oficial:** [lrg-web-design.vercel.app](https://lrg-web-developer.vercel.app/)
+🌐 **Sitio Web Oficial:** [lrg-web-developer.vercel.app](https://lrg-web-developer.vercel.app/)
 
 ---
 
